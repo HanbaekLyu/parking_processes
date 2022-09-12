@@ -4,11 +4,6 @@ Place a car independently with probability p at each site of a graph. Each initi
 
 &nbsp;
 
-For a more user-friendly repository, please see [NDL package repository](https://github.com/jvendrow/Network-Dictionary-Learning).\
-Our code is also available as the python package [**ndlearn**](https://pypi.org/project/ndlearn/) on pypi.
-
-&nbsp;
-
 ![](Figures/CP_ex1.png)
 
 ## Authors
