@@ -9,7 +9,7 @@ Our code is also available as the python package [**ndlearn**](https://pypi.org/
 
 &nbsp;
 
-![](Figures/CP_ex.png)
+![](Figures/CP_ex1.png)
 &nbsp;
 
 ## License
