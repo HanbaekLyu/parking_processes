@@ -5,10 +5,10 @@ Place a car independently with probability p at each site of a graph. Each initi
 ## References 
 
 [1]. Michael Damron, Janko Gravner, Matthew Junge, Hanbaek Lyu, and David Sivakoff,\
-[*“Parking on transitive unimodular graphs."*] Annals of Applied Probability, Volume 29, Number 4 (2019), 2089-2113 [Journal](https://projecteuclid.org/euclid.aoap/1563869038) 
+*“Parking on transitive unimodular graphs."* Annals of Applied Probability, Volume 29, Number 4 (2019), 2089-2113 [Journal](https://projecteuclid.org/euclid.aoap/1563869038) 
 
 [2]. Sungwon Ahn, Matthew Junge, Hanbeak Lyu, Lily Reeves, Jacob Richey, and David Sivakoff, \
-[*“Phase transition in parking process with coalescing cars."*] In preperation.
+*"Phase transition in parking process with coalescing cars."* In preperation.
 
 
 
