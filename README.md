@@ -11,6 +11,12 @@ Our code is also available as the python package [**ndlearn**](https://pypi.org/
 
 ![](Figures/CP_ex1.png)
 
+## Authors
+
+* **Jacob Richey - *Initial work* - [Website](https://personal.math.ubc.ca/~jfrichey/)
+* **Lily Reeves - *Initial work* - [Website](https://www.cam.cornell.edu/research/grad-students/lily-reeves)
+* **Hanbaek Lyu** - *Initial work* - [Website](https://hanbaeklyu.com)
+* **Matthew Junge - *Initial work* - [Website](https://www.mathjunge.com)
 
 ## License
 
