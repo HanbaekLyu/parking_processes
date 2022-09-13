@@ -14,8 +14,9 @@ Place a car independently with probability p at each site of a graph. Each initi
 
 
 &nbsp;
-
-![](Figures/CP_ex1.pdf)
+![](Figures/CP_ex1.png)
+&nbsp;
+![](Figures/CP_ex2.png)
 
 ## Authors
 
